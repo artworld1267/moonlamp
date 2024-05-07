@@ -1,0 +1,15 @@
+Email Address: singhpritam37404@gmail.com
+Picture: Untitled design (23).png
+Lithophane Resolution: 0.25
+Sphere Diameter: 100
+Picture Angular Height: 171
+Picture Angular Width: 360.79
+Maximum Thickness: 2
+Minimum Thickness: 0.6
+Cylinder Outer Diameter: 15
+Cylinder Height: 2.6
+Cylinder Thickness: 2.62
+Cylinder Ledge Outer Diameter: 15
+Top Hole Outer Diameter: 0
+X Shift: 0.5
+Y Shift: 0.00
